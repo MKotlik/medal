@@ -91,7 +91,7 @@
 
 .outer-cont {
     perspective: 1000px;
-    margin: 2% auto auto auto;
+    margin: 10% auto auto auto;
 }
 
 .outer-cont:hover .flipper {
