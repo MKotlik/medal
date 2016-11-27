@@ -1,8 +1,9 @@
 /*OG Medal Properties*/
 
 @font-face {
-    font-family: Candara;
-    src: url(Candara.tff);
+    font-family: Misha;
+    src: url("Candara.tff");
+    src: url("Candara.tff") format("truetype");
 }
 
 
@@ -68,7 +69,7 @@
     text-align: center;
     position: relative;
     top: -0%;
-    font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-family: Misha, Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
     font-size: 10em;
     font-weight: bold;
     /*color: #ccae0e;*/
@@ -79,7 +80,7 @@
     text-align: center;
     position: relative;
     top: 37.5%;
-    font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-family: Misha, Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
     /*font-family: Arial,Helvetica Neue,Helvetica,sans-serif;*/
     font-size: 3em;
     color: white;
@@ -90,7 +91,7 @@
 
 .outer-cont {
     perspective: 1000px;
-    margin: auto;
+    margin: 2% auto auto auto;
 }
 
 .outer-cont:hover .flipper {
