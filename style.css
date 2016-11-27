@@ -1,5 +1,11 @@
 /*OG Medal Properties*/
 
+@font-face {
+    font-family: Candara;
+    src: url(Candara.tff);
+}
+
+
 .medal {
     width: 300px;
     height: 360px;
