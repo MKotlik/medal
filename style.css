@@ -2,8 +2,7 @@
 
 @font-face {
     font-family: Misha;
-    src: url("Candara.tff");
-    src: url("Candara.tff") format("truetype");
+    src: url(Candara.tff) format("truetype");
 }
 
 
