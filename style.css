@@ -67,9 +67,9 @@
 .years {
     text-align: center;
     position: relative;
-    top: -0%;
+    top: 10%;
     font-family: Misha, Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
-    font-size: 10em;
+    font-size: 7em;
     font-weight: bold;
     /*color: #ccae0e;*/
     color: white;
