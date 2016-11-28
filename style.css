@@ -2,9 +2,8 @@
 
 @font-face {
     font-family: Misha;
-    src: url(Candara.tff) format("truetype");
+    src: url(Candara.ttf) format("truetype");
 }
-
 
 .medal {
     width: 300px;
@@ -67,8 +66,8 @@
 .years {
     text-align: center;
     position: relative;
-    top: 0%;
-    font-family: Misha, Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    top: 10%;
+    font-family: Candara, Misha, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
     font-size: 10em;
     font-weight: bold;
     /*color: #ccae0e;*/
@@ -79,7 +78,7 @@
     text-align: center;
     position: relative;
     top: 37.5%;
-    font-family: Misha, Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-family: Candara, Misha, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
     /*font-family: Arial,Helvetica Neue,Helvetica,sans-serif;*/
     font-size: 3em;
     color: white;
